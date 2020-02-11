@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\bin\Debug\netcoreapp3.0\ApiData.deps.json
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\bin\Debug\netcoreapp3.0\ApiData.runtimeconfig.json
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\bin\Debug\netcoreapp3.0\ApiData.runtimeconfig.dev.json
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\bin\Debug\netcoreapp3.0\ApiData.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\bin\Debug\netcoreapp3.0\ApiData.pdb
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\bin\Debug\netcoreapp3.0\ApiDomain.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\bin\Debug\netcoreapp3.0\ApiDomain.pdb
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\obj\Debug\netcoreapp3.0\ApiData.csprojAssemblyReference.cache
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\obj\Debug\netcoreapp3.0\ApiData.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\obj\Debug\netcoreapp3.0\ApiData.AssemblyInfo.cs
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\obj\Debug\netcoreapp3.0\ApiData.csproj.CopyComplete
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\obj\Debug\netcoreapp3.0\ApiData.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Data\obj\Debug\netcoreapp3.0\ApiData.pdb

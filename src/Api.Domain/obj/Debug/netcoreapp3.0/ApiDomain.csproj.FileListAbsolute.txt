@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\bin\Debug\netcoreapp3.0\ApiDomain.deps.json
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\bin\Debug\netcoreapp3.0\ApiDomain.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\bin\Debug\netcoreapp3.0\ApiDomain.pdb
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\obj\Debug\netcoreapp3.0\ApiDomain.csprojAssemblyReference.cache
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\obj\Debug\netcoreapp3.0\ApiDomain.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\obj\Debug\netcoreapp3.0\ApiDomain.AssemblyInfo.cs
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\obj\Debug\netcoreapp3.0\ApiDomain.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.Domain\obj\Debug\netcoreapp3.0\ApiDomain.pdb

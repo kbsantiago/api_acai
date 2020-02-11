@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.CrossCutting.deps.json
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.CrossCutting.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.CrossCutting.pdb
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.Data.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.Domain.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.Service.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.Data.pdb
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.Service.pdb
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\bin\Debug\netcoreapp3.0\Api.Domain.pdb
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.0\Api.CrossCutting.csprojAssemblyReference.cache
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.0\Api.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.0\Api.CrossCutting.AssemblyInfo.cs
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.0\Api.CrossCutting.csproj.CopyComplete
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.0\Api.CrossCutting.dll
+C:\Users\ASUS\source\projetos\cef_net_core\src\Api.CrossCutting\obj\Debug\netcoreapp3.0\Api.CrossCutting.pdb
